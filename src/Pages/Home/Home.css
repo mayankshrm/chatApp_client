@@ -1,0 +1,74 @@
+
+.container1{
+    max-height: 100vh;
+    padding: 10px;
+    display: flex;
+    
+}
+
+
+
+.userChat{
+    flex: 3.5;
+        
+}
+
+
+.message{
+    flex: 8.5;
+}
+
+
+
+
+
+.topWrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+}
+
+.messageTop{
+      height: 80vh;
+        overflow-y: scroll;
+        padding-right: 10px;
+        scroll-behavior: smooth;
+}
+
+.messageTop::-webkit-scrollbar{
+    display: none;
+}
+
+.inputSearch{
+    padding: 10px 0;
+    width: 90%;
+    border: none;
+    border-bottom: 1px solid gray;
+
+}
+
+.messageBottom{
+    display: flex;
+    align-items: center;
+    
+
+
+}
+
+.textChat{
+    width: 80%;
+height: 80px;
+margin-top: 10px;
+}
+
+.sendBtn{
+    border: none;
+    width: 70px;
+    height: 40px;
+    margin-right: 2rem;
+}
+
+
+
+
