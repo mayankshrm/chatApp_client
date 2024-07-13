@@ -1,8 +1,10 @@
-# React + Vite
+# Tech Stack
+1. React + vite
+2. Nodejs 
+3. MongoDB
+4. socket.io
+5. javascript
+6. tailwind
+7. ExpressJs
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![WhatsApp Image 2024-07-14 at 00 38 30_2c69c7bf](https://github.com/user-attachments/assets/f47241f6-155f-4ae6-9ff1-5b10c2d9c2a3)
